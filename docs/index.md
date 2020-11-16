@@ -2,6 +2,6 @@ I am passionate about Statistics. I love analyzing data, finding patterns, makin
 
 ### Research Interests
 
-Functional data, Gaussian process, machine learning, longitudinal data.
+Group testing
 
 ###  [Curriculum Vitae](Tahmidul Islam CV_Oct20.pdf)
